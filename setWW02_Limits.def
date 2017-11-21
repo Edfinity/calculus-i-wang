@@ -2,17 +2,16 @@
 openDate          = 09/09/2016 at 03:51pm EDT
 dueDate           = 09/15/2016 at 11:00pm EDT
 answerDate        = 09/16/2016 at 11:00pm EDT
-paperHeaderFile   = 
+paperHeaderFile   =
 screenHeaderFile  = headers/BlankHeader.pg
-problemList       = 
-rochester/setLimitsRates1_5Graphs/ur_lr_1-5_1_mo.pg, 1, -1 
-rochester/setLimitsRates2Limits/ns2_2_x.pg, 1, -1 
-rochester/setLimitsRates2Limits/ns2_2_xx.pg, 1, -1 
-rochester/setLimitsRates2Limits/s1_3_5.pg, 1, -1 
-rochester/setLimitsRates2Limits/s1_3_12.pg, 1, -1 
-rochester/setLimitsRates2Limits/s1_3_16.pg, 1, -1 
-rochester/setLimitsRates2Limits/s1_3_18.pg, 1, -1 
-rochester/setLimitsRates2Limits/s1_3_19.pg, 1, -1 
-rochester/setLimitsRates2Limits/s1_3_48a.pg, 1, -1 
-rochester/setLimitsRates2Limits/ur_lr_2_5.pg, 1, -1 
-
+problemList       =
+Library/Rochester/setLimitsRates1_5Graphs/ur_lr_1-5_1_mo.pg, 1, -1
+Library/Rochester/setLimitsRates2Limits/ns2_2_x.pg, 1, -1
+Library/Rochester/setLimitsRates2Limits/ns2_2_xx.pg, 1, -1
+Library/Rochester/setLimitsRates2Limits/s1_3_5.pg, 1, -1
+Library/Rochester/setLimitsRates2Limits/s1_3_12.pg, 1, -1
+Library/Rochester/setLimitsRates2Limits/s1_3_16.pg, 1, -1
+Library/Rochester/setLimitsRates2Limits/s1_3_18.pg, 1, -1
+Library/Rochester/setLimitsRates2Limits/s1_3_19.pg, 1, -1
+Library/Rochester/setLimitsRates2Limits/s1_3_48a.pg, 1, -1
+Library/Rochester/setLimitsRates2Limits/ur_lr_2_5.pg, 1, -1

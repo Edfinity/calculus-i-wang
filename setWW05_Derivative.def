@@ -6,14 +6,14 @@ paperHeaderFile   =
 screenHeaderFile  = headers/BlankHeader.pg
 problemList       = 
 Library/UVA-Stew5e/setUVA-Stew5e-C02S09-DerivAsFunct/2-9-20a.pg, 1, -1 
-rochester/setDerivatives0Theory/S02.09.DerivativesAsFunction.PTP01.pg, 1, -1 
-rochester/setDerivatives0Theory/s2_R_1-16.pg, 1, -1 
-rochester/setDerivatives1_5Tangents/ur_dr_1_5_17a.pg, 1, -1 
-rochester/setDerivatives1_5Tangents/ur_dr_1_5_18.pg, 1, -1 
-rochester/setDerivatives1_5Tangents/ur_dr_1_5_19.pg, 1, -1 
-union/setDervBasic/3-4-40.pg, 1, -1 
-union/setDervProductQuotientRule/3-5-07.pg, 1, -1 
-union/setDervProductQuotientRule/3-5-32.pg, 1, -1 
-union/setDervProductQuotientRule/3-5-45.pg, 1, -1 
-union/setDervProductQuotientRule/s2_2_13.pg, 1, -1 
+Library/Rochester/setDerivatives0Theory/S02.09.DerivativesAsFunction.PTP01.pg, 1, -1 
+Library/Rochester/setDerivatives0Theory/s2_R_1-16.pg, 1, -1 
+Library/Rochester/setDerivatives1_5Tangents/ur_dr_1_5_17a.pg, 1, -1 
+Library/Rochester/setDerivatives1_5Tangents/ur_dr_1_5_18.pg, 1, -1 
+Library/Rochester/setDerivatives1_5Tangents/ur_dr_1_5_19.pg, 1, -1 
+Library/Union/setDervBasic/3-4-40.pg, 1, -1 
+Library/Union/setDervProductQuotientRule/3-5-07.pg, 1, -1 
+Library/Union/setDervProductQuotientRule/3-5-32.pg, 1, -1 
+Library/Union/setDervProductQuotientRule/3-5-45.pg, 1, -1 
+Library/Union/setDervProductQuotientRule/s2_2_13.pg, 1, -1 
 

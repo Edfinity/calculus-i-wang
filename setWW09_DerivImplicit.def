@@ -2,17 +2,16 @@
 openDate          = 09/30/2016 at 04:10pm EDT
 dueDate           = 10/06/2016 at 11:00pm EDT
 answerDate        = 10/07/2016 at 11:00pm EDT
-paperHeaderFile   = 
+paperHeaderFile   =
 screenHeaderFile  = headers/BlankHeader.pg
-problemList       = 
-rochester/setDerivatives2_5Implicit/c2s6p1.pg, 1, -1 
-rochester/setDerivatives2_5Implicit/c2s6p2a.pg, 1, -1 
-rochester/setDerivatives2_5Implicit/c2s6p3.pg, 1, -1 
-rochester/setDerivatives2_5Implicit/s2_6_1.pg, 1, -1 
-rochester/setDerivatives2_5Implicit/s2_6_4.pg, 1, -1 
-rochester/setDerivatives2_5Implicit/s2_6_13.pg, 1, -1 
-rochester/setDerivatives2_5Implicit/s2_6_14.pg, 1, -1 
-rochester/setDerivatives2_5Implicit/s2_6_19.pg, 1, -1 
-rochester/setDerivatives2_5Implicit/s2_6_25.pg, 1, -1 
-rochester/setDerivatives2_5Implicit/ur_dr_25_10.pg, 1, -1 
-
+problemList       =
+Library/Rochester/setDerivatives2_5Implicit/c2s6p1.pg, 1, -1
+Library/Rochester/setDerivatives2_5Implicit/c2s6p2a.pg, 1, -1
+Library/Rochester/setDerivatives2_5Implicit/c2s6p3.pg, 1, -1
+Library/Rochester/setDerivatives2_5Implicit/s2_6_1.pg, 1, -1
+Library/Rochester/setDerivatives2_5Implicit/s2_6_4.pg, 1, -1
+Library/Rochester/setDerivatives2_5Implicit/s2_6_13.pg, 1, -1
+Library/Rochester/setDerivatives2_5Implicit/s2_6_14.pg, 1, -1
+Library/Rochester/setDerivatives2_5Implicit/s2_6_19.pg, 1, -1
+Library/Rochester/setDerivatives2_5Implicit/s2_6_25.pg, 1, -1
+Library/Rochester/setDerivatives2_5Implicit/ur_dr_25_10.pg, 1, -1

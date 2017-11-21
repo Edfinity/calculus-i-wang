@@ -2,27 +2,26 @@
 openDate          = 09/07/2016 at 01:00pm EDT
 dueDate           = 09/14/2016 at 11:00pm EDT
 answerDate        = 09/15/2016 at 11:00pm EDT
-paperHeaderFile   = 
+paperHeaderFile   =
 screenHeaderFile  = headers/BlankHeader.pg
-problemList       = 
-union/setAlgebraIntervals/ur_ab_10_1.pg, 1, -1 
-union/setFunctionBasics/srw2_1_23.pg, 1, -1 
-rochester/setAlgebra01RealNumbers/lhp1_49-58.pg, 1, -1 
-union/setFunctionComposition/an1_4_47.pg, 1, -1 
-rochester/setTrig03FunctionsRightAngle/srw6_2_5.pg, 1, -1 
-union/setTrigBasicValues/ur_tr_1_1.pg, 1, -1 
-union/setTrigBasicValues/ur_tr_1_2.pg, 1, -1 
-union/setTrigBasicValues/ur_tr_1_3a.pg, 1, -1 
-union/setTrigBasicValues/ur_tr_1_5.pg, 1, -1 
-union/setTrigBasicValues/ur_tr_1_6d.pg, 1, -1 
-rochester/setTrig06Inverses/srw7_4_1.pg, 1, -1 
-rochester/setTrig06Inverses/srw7_4_3.pg, 1, -1 
-rochester/setTrig06Inverses/srw7_4_7.pg, 1, -1 
-rochester/setTrig06Inverses/srw7_6_1-8a.pg, 1, -1 
-rochester/setTrig06Inverses/srw7_6_1-8c.pg, 1, -1 
-rochester/setAlgebra29LogFunctions/problem1.pg, 1, -1 
-rochester/setAlgebra29LogFunctions/problem4.pg, 1, -1 
-union/setFunctionLogarithmic/beth2logfun.pg, 1, -1 
-union/setFunctionLogarithmic/srw4_3_51.pg, 1, -1 
-union/setFunctionLogarithmic/srw4_4_39.pg, 1, -1 
-
+problemList       =
+Library/Union/setAlgebraIntervals/ur_ab_10_1.pg, 1, -1
+Library/Union/setFunctionBasics/srw2_1_23.pg, 1, -1
+Library/Rochester/setAlgebra01RealNumbers/lhp1_49-58.pg, 1, -1
+Library/Union/setFunctionComposition/an1_4_47.pg, 1, -1
+Library/Rochester/setTrig03FunctionsRightAngle/srw6_2_5.pg, 1, -1
+Library/Union/setTrigBasicValues/ur_tr_1_1.pg, 1, -1
+Library/Union/setTrigBasicValues/ur_tr_1_2.pg, 1, -1
+Library/Union/setTrigBasicValues/ur_tr_1_3a.pg, 1, -1
+Library/Union/setTrigBasicValues/ur_tr_1_5.pg, 1, -1
+Library/Union/setTrigBasicValues/ur_tr_1_6d.pg, 1, -1
+Library/Rochester/setTrig06Inverses/srw7_4_1.pg, 1, -1
+Library/Rochester/setTrig06Inverses/srw7_4_3.pg, 1, -1
+Library/Rochester/setTrig06Inverses/srw7_4_7.pg, 1, -1
+Library/Rochester/setTrig06Inverses/srw7_6_1-8a.pg, 1, -1
+Library/Rochester/setTrig06Inverses/srw7_6_1-8c.pg, 1, -1
+Library/Rochester/setAlgebra29LogFunctions/problem1.pg, 1, -1
+Library/Rochester/setAlgebra29LogFunctions/problem4.pg, 1, -1
+Library/Union/setFunctionLogarithmic/beth2logfun.pg, 1, -1
+Library/Union/setFunctionLogarithmic/srw4_3_51.pg, 1, -1
+Library/Union/setFunctionLogarithmic/srw4_4_39.pg, 1, -1

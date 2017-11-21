@@ -5,14 +5,14 @@ answerDate        = 09/24/2016 at 11:00pm EDT
 paperHeaderFile   = 
 screenHeaderFile  = headers/BlankHeader.pg
 problemList       = 
-rochester/setDerivatives5ChainRule/s2_5_3.pg, 1, -1 
-rochester/setDerivatives5ChainRule/ur_dr_5_20.pg, 1, -1 
-union/setDervBasic/3-4-40.pg, 1, -1 
-union/setDervChainRule/3-6-43.pg, 1, -1 
-union/setDervChainRule/3-6-49.pg, 1, -1 
-union/setDervChainRule/an3_5_3.pg, 1, -1 
-union/setDervProductQuotientRule/3-5-07.pg, 1, -1 
-union/setDervProductQuotientRule/3-5-32.pg, 1, -1 
-union/setDervProductQuotientRule/3-5-45.pg, 1, -1 
-union/setDervProductQuotientRule/s2_2_13.pg, 1, -1 
+Library/Rochester/setDerivatives5ChainRule/s2_5_3.pg, 1, -1 
+Library/Rochester/setDerivatives5ChainRule/ur_dr_5_20.pg, 1, -1 
+Library/Union/setDervBasic/3-4-40.pg, 1, -1 
+Library/Union/setDervChainRule/3-6-43.pg, 1, -1 
+Library/Union/setDervChainRule/3-6-49.pg, 1, -1 
+Library/Union/setDervChainRule/an3_5_3.pg, 1, -1 
+Library/Union/setDervProductQuotientRule/3-5-07.pg, 1, -1 
+Library/Union/setDervProductQuotientRule/3-5-32.pg, 1, -1 
+Library/Union/setDervProductQuotientRule/3-5-45.pg, 1, -1 
+Library/Union/setDervProductQuotientRule/s2_2_13.pg, 1, -1 
 

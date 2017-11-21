@@ -2,17 +2,16 @@
 openDate          = 09/12/2016 at 03:24pm EDT
 dueDate           = 09/16/2016 at 11:00pm EDT
 answerDate        = 09/17/2016 at 11:00pm EDT
-paperHeaderFile   = 
+paperHeaderFile   =
 screenHeaderFile  = headers/BlankHeader.pg
-problemList       = 
-Library/UVA-Stew5e/setUVA-Stew5e-C02S02-Limits/2-2-25.pg, 1, -1 
-Library/Union/setLimitInfinity/ns2_2_xxx.pg, 1, -1 
-rochester/setLimitsRates3Infinite/ur_lr_3_6.pg, 1, -1 
-union/setLimitConcepts/3-2-41.pg, 1, -1 
-union/setLimitConcepts/3-2-45.pg, 1, -1 
-union/setLimitConcepts/s1_3_16.pg, 1, -1 
-union/setLimitInfinity/4-4-31.pg, 1, -1 
-union/setLimitInfinity/ur_lr_3_8.pg, 1, -1 
-union/setLimitInfinity/ur_lr_3_9.pg, 1, -1 
-union/setLimitInfinity/ur_lr_3_12.pg, 1, -1 
-
+problemList       =
+Library/UVA-Stew5e/setUVA-Stew5e-C02S02-Limits/2-2-25.pg, 1, -1
+Library/Union/setLimitInfinity/ns2_2_xxx.pg, 1, -1
+Library/Rochester/setLimitsRates3Infinite/ur_lr_3_6.pg, 1, -1
+Library/Union/setLimitConcepts/3-2-41.pg, 1, -1
+Library/Union/setLimitConcepts/3-2-45.pg, 1, -1
+Library/Union/setLimitConcepts/s1_3_16.pg, 1, -1
+Library/Union/setLimitInfinity/4-4-31.pg, 1, -1
+Library/Union/setLimitInfinity/ur_lr_3_8.pg, 1, -1
+Library/Union/setLimitInfinity/ur_lr_3_9.pg, 1, -1
+Library/Union/setLimitInfinity/ur_lr_3_12.pg, 1, -1
